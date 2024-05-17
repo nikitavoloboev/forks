@@ -1,6 +1,6 @@
 # Forks
 
-All my repo clones are in `~/clones`. All code I work with is in [~/src](https://github.com/nikitavoloboev#src).
+All my clones are in `~/clones`. All code I work with is in [~/src](https://github.com/nikitavoloboev#src).
 
 This `~/forks` folder is for forks of repos I am working with.
 
