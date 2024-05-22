@@ -2,7 +2,7 @@
 
 > [Forks of repos](https://github.com/nikitavoloboev?tab=repositories&q=&type=fork) I am working with or want to edit
 
-All code I work with is in [~/src](https://github.com/nikitavoloboev#src). All clones in [~/clones](https://github.com/nikitavoloboev/clones).
+All code I work with is in [~/src](https://github.com/nikitavoloboev#src). All clones in [~/clones](https://github.com/nikitavoloboev/clones). I try things in [~/try](https://github.com/nikitavoloboev/try). Active tests in [~/test](https://github.com/nikitavoloboev/test).
 
 At end of month, stale (non comitted to forks for a month) get moved to [~/past](https://github.com/nikitavoloboev/past) as archives sorted by month.
 
