@@ -1,6 +1,6 @@
 # Forks
 
-> [Forks](https://github.com/nikitavoloboev?tab=repositories&q=&type=fork) I am editing
+> Repos I [forked](https://github.com/nikitavoloboev?tab=repositories&q=&type=fork)
 
 Repos from [~/clones](https://github.com/nikitavoloboev/clones) once forked, get moved here.
 
